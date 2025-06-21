@@ -1,4 +1,4 @@
 ###
 environment installation via requirement.txt
 ###
-run prediction.py
+after setting run prediction.py
